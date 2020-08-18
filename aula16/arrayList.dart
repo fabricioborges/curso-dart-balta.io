@@ -1,6 +1,6 @@
 import 'dart:io';
 main(){
-  var nomes = [];
+  List<String> nomes = [];
 
   bool condicao = true;
 
